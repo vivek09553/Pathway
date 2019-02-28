@@ -1,3 +1,0 @@
-Django
-django-crispy-forms
-pytz
